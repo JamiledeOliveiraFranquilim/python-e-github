@@ -78,7 +78,7 @@ Siga as instruções para registrar movimentações e visualizar o relatório fi
 
  Exemplo de Uso
 makefile
-Copiar código
+
 === Estoque Inicial ===
 canetas: 150 unidades
 cadernos: 95 unidades
